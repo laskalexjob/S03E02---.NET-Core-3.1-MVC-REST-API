@@ -29,7 +29,7 @@ namespace Commander.Data
 
         public Command GetCommandById(int id)
         {
-            return new Command{Id=0, HowTo="Boil an egg", Line="Boil water", Platform="Kettle & Pan"};
+            return new Command { Id = 0, HowTo = "Boil an egg", Line = "Boil water", Platform = "Kettle & Pan" };
         }
 
         public bool SaveChanges()

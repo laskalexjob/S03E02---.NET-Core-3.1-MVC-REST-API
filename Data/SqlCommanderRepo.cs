@@ -16,7 +16,7 @@ namespace Commander.Data
 
         public void CreateCommand(Command cmd)
         {
-            if(cmd == null)
+            if (cmd == null)
             {
                 throw new ArgumentNullException(nameof(cmd));
             }
@@ -26,7 +26,7 @@ namespace Commander.Data
 
         public void DeleteCommand(Command cmd)
         {
-            if(cmd == null)
+            if (cmd == null)
             {
                 throw new ArgumentNullException(nameof(cmd));
             }

@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\S3\\E2\\Commander\\Commander.csproj": {}
+    "D:\\Sandbox\\RestApi\\S03E02---.NET-Core-3.1-MVC-REST-API\\Commander.csproj": {}
   },
   "projects": {
-    "D:\\S3\\E2\\Commander\\Commander.csproj": {
+    "D:\\Sandbox\\RestApi\\S03E02---.NET-Core-3.1-MVC-REST-API\\Commander.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\S3\\E2\\Commander\\Commander.csproj",
+        "projectUniqueName": "D:\\Sandbox\\RestApi\\S03E02---.NET-Core-3.1-MVC-REST-API\\Commander.csproj",
         "projectName": "Commander",
-        "projectPath": "D:\\S3\\E2\\Commander\\Commander.csproj",
-        "packagesPath": "C:\\Users\\lesja\\.nuget\\packages\\",
-        "outputPath": "D:\\S3\\E2\\Commander\\obj\\",
+        "projectPath": "D:\\Sandbox\\RestApi\\S03E02---.NET-Core-3.1-MVC-REST-API\\Commander.csproj",
+        "packagesPath": "C:\\Users\\Aliaksandr.Laskauneu\\.nuget\\packages\\",
+        "outputPath": "D:\\Sandbox\\RestApi\\S03E02---.NET-Core-3.1-MVC-REST-API\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\lesja\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Aliaksandr.Laskauneu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -69,7 +66,7 @@
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
-              "version": "(, )"
+              "version": "[5.3.3, )"
             }
           },
           "imports": [
@@ -90,7 +87,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
